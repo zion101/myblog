@@ -267,7 +267,7 @@ enableEmoji = true
       name = " 暗淡蓝点 "
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-dog fa-fw'></i>"
+      pre = "<i class='fas fa-dog fa-fw'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
