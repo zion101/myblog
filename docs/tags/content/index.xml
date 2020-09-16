@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>内容 - 标签 - Zion 的个人博客</title>
-        <link>https://zion101.github.io/myblog/tags/content/</link>
+        <link>https://zion101.github.io/tags/content/</link>
         <description>内容 - 标签 - Zion 的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>young010123@gmail.com (Zion)</managingEditor>
-            <webMaster>young010123@gmail.com (Zion)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zion101.github.io/myblog/tags/content/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>young010123@gmail.com (Zion)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zion101.github.io/tags/content/" rel="self" type="application/rss+xml" /></channel>
 </rss>
