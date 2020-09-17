@@ -552,7 +552,7 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Zion 的个人博客"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
