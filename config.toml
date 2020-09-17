@@ -474,9 +474,9 @@ enableEmoji = true
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "6zvj3mySb5RPlreG0uLK5XJi-9Nh9j0Va"
-        appKey = "233jR61jmO5S8azvILfquU03"
-        placeholder = ""
+        appId = "i2l7pzxk1lyd27QxsKU1dgPW-MdYXbMMI"
+        appKey = "R4kinGEHHmQNxMuJF5Q577oy"
+        placeholder = "说点什么吧~"
         avatar = "mp"
         meta= ""
         pageSize = 10
