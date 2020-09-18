@@ -2,7 +2,7 @@
     <channel>
         <title>Zion 的个人博客</title>
         <link>https://zion101.github.io/</link>
-        <description>关于 LoveIt 主题</description>
+        <description>Zion 的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>young010123@gmail.com (Zion)</managingEditor>
             <webMaster>young010123@gmail.com (Zion)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2020 19:49:05 &#43;0800</lastBuildDate>
             <atom:link href="https://zion101.github.io/index.xml" rel="self" type="application/rss+xml" />
