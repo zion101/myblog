@@ -96,9 +96,9 @@ enableEmoji = true
       #   weight = 6
     [languages.zh-cn.params]
       # 网站描述
-      description = "关于 LoveIt 主题"
+      description = "Zion 的个人博客"
       # 网站关键词
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Zion", "博客", "个人博客", "暗淡蓝点"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
